@@ -1,0 +1,98 @@
+.h1 {
+    font: Arial;
+    height: 20px;
+    width: 200px
+     
+}
+.positioning h1 {
+    text-align: center;
+    position: relative;
+
+}
+.class1 {
+    margin-top: 50px;
+    margin-bottom:50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border: 2px solid green;
+    font: "Times New Roman";
+}
+.class2 {
+    margin-top: 25px;
+    margin-bottom:25px;
+    margin-left: 25px;
+    margin-right: 25px;
+    border: 10px solid blue;
+    font: Arial;
+}
+.class3 {
+    margin-top: 50px;
+    margin-bottom:50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border: 2px solid green;
+ 
+}
+.class4 {
+    margin-top: 50px;
+    margin-bottom:50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border: 2px solid green;
+    font: georgia;
+}
+.class5 {
+    margin-top: 50px;
+    margin-bottom:50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border: 2px solid green;
+    font: "Times New Roman";
+}
+.class6 {
+    margin-top: 50px;
+    margin-bottom:50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border: 2px solid green;
+    font: "Times New Roman";
+}
+#number-one {
+    font-display: bold;
+    font: Arial;
+    font-size: 16pt;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.h3 {
+    font-style: bold;
+    font-style: italic;
+    font-size: 18pt;
+}
+.table {
+    border: double;
+    border-top: 2px;
+    border-bottom: 2px;
+    border-left: 4px;
+    border-right: 4px;
+    background-color: lightgreen;
+
+}
+.html {
+    background-color: gray;
+}
+.positioning h3 {
+    text-align: center
+}
+.comment {
+    border: 2px solid black;
+}
+.section {
+    padding: 2px;
+    border: 2px solid black;
+}
+.footer {
+    border: 2px solid green;
+}
